@@ -1,0 +1,163 @@
+Date : 2024-03-27 00:58:38
+Directory : c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib
+Total : 81 files,  5711 codes, 84 comments, 608 blanks, all 6403 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         81 |      5,711 |         84 |        608 |      6,403 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                             |         81 |      5,711 |         84 |        608 |      6,403 |
+| . (Files)                                                                                                                     |          1 |        109 |          0 |          5 |        114 |
+| DI                                                                                                                            |          1 |         88 |          0 |         18 |        106 |
+| Features                                                                                                                      |         57 |      4,566 |         40 |        450 |      5,056 |
+| Features\Authenticaion                                                                                                        |          8 |        706 |          1 |         75 |        782 |
+| Features\Authenticaion\Login                                                                                                  |          1 |        165 |          0 |         12 |        177 |
+| Features\Authenticaion\Login\view                                                                                             |          1 |        165 |          0 |         12 |        177 |
+| Features\Authenticaion\Register                                                                                               |          1 |        374 |          1 |         26 |        401 |
+| Features\Authenticaion\Register\view                                                                                          |          1 |        374 |          1 |         26 |        401 |
+| Features\Authenticaion\bloc                                                                                                   |          3 |         60 |          0 |         21 |         81 |
+| Features\Authenticaion\data                                                                                                   |          3 |        107 |          0 |         16 |        123 |
+| Features\Authenticaion\data\datasource                                                                                        |          1 |         57 |          0 |          6 |         63 |
+| Features\Authenticaion\data\model                                                                                             |          1 |         16 |          0 |          3 |         19 |
+| Features\Authenticaion\data\repository                                                                                        |          1 |         34 |          0 |          7 |         41 |
+| Features\Download                                                                                                             |          1 |         75 |          0 |          3 |         78 |
+| Features\Download\view                                                                                                        |          1 |         75 |          0 |          3 |         78 |
+| Features\Home                                                                                                                 |         17 |      1,604 |         28 |        156 |      1,788 |
+| Features\Home\bloc                                                                                                            |          3 |         89 |          1 |         13 |        103 |
+| Features\Home\data                                                                                                            |         13 |        887 |         26 |        116 |      1,029 |
+| Features\Home\data\datasource                                                                                                 |          6 |        555 |          6 |         58 |        619 |
+| Features\Home\data\datasource\local                                                                                           |          3 |        381 |          6 |         37 |        424 |
+| Features\Home\data\datasource\remot                                                                                           |          3 |        174 |          0 |         21 |        195 |
+| Features\Home\data\model                                                                                                      |          4 |        146 |          8 |         26 |        180 |
+| Features\Home\data\repository                                                                                                 |          3 |        186 |         12 |         32 |        230 |
+| Features\Home\view                                                                                                            |          1 |        628 |          1 |         27 |        656 |
+| Features\MovieDetial                                                                                                          |         10 |        815 |          2 |         74 |        891 |
+| Features\MovieDetial\bloc                                                                                                     |          3 |         71 |          2 |         14 |         87 |
+| Features\MovieDetial\data                                                                                                     |          6 |        225 |          0 |         33 |        258 |
+| Features\MovieDetial\data\datasource                                                                                          |          2 |         98 |          0 |         12 |        110 |
+| Features\MovieDetial\data\model                                                                                               |          2 |         47 |          0 |          6 |         53 |
+| Features\MovieDetial\data\repository                                                                                          |          2 |         80 |          0 |         15 |         95 |
+| Features\MovieDetial\view                                                                                                     |          1 |        519 |          0 |         27 |        546 |
+| Features\MovieLink                                                                                                            |          4 |        237 |          0 |         18 |        255 |
+| Features\MovieLink\bloc                                                                                                       |          3 |         41 |          0 |         11 |         52 |
+| Features\MovieLink\view                                                                                                       |          1 |        196 |          0 |          7 |        203 |
+| Features\MovieList                                                                                                            |          8 |        585 |          1 |         74 |        660 |
+| Features\MovieList\bloc                                                                                                       |          4 |        145 |          0 |         32 |        177 |
+| Features\MovieList\data                                                                                                       |          3 |        223 |          1 |         32 |        256 |
+| Features\MovieList\data\datasource                                                                                            |          1 |        120 |          0 |         15 |        135 |
+| Features\MovieList\data\model                                                                                                 |          1 |          7 |          0 |          2 |          9 |
+| Features\MovieList\data\repository                                                                                            |          1 |         96 |          1 |         15 |        112 |
+| Features\MovieList\view                                                                                                       |          1 |        217 |          0 |         10 |        227 |
+| Features\TestSc                                                                                                               |          1 |         69 |          5 |          5 |         79 |
+| Features\Welcom                                                                                                               |          1 |         58 |          0 |          3 |         61 |
+| Features\Welcom\view                                                                                                          |          1 |         58 |          0 |          3 |         61 |
+| Features\category                                                                                                             |          7 |        417 |          3 |         42 |        462 |
+| Features\category\bloc                                                                                                        |          3 |         34 |          0 |         13 |         47 |
+| Features\category\data                                                                                                        |          3 |        131 |          0 |         15 |        146 |
+| Features\category\data\datasource                                                                                             |          1 |         69 |          0 |          5 |         74 |
+| Features\category\data\model                                                                                                  |          1 |         22 |          0 |          5 |         27 |
+| Features\category\data\repository                                                                                             |          1 |         40 |          0 |          5 |         45 |
+| Features\category\view                                                                                                        |          1 |        252 |          3 |         14 |        269 |
+| constants                                                                                                                     |          2 |         23 |          0 |          5 |         28 |
+| gen                                                                                                                           |          2 |        154 |         43 |         44 |        241 |
+| util                                                                                                                          |         11 |        173 |          0 |         37 |        210 |
+| util\enum                                                                                                                     |          2 |         24 |          0 |          3 |         27 |
+| util\extetion_function                                                                                                        |          5 |         60 |          0 |         19 |         79 |
+| util\network_util                                                                                                             |          4 |         89 |          0 |         15 |        104 |
+| widget                                                                                                                        |          7 |        598 |          1 |         49 |        648 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                      | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\DI\get_it.dart                                                         | Dart     |         88 |          0 |         18 |        106 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\Login\view\login_screen.dart                    | Dart     |        165 |          0 |         12 |        177 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\Register\view\register_screen.dart              | Dart     |        374 |          1 |         26 |        401 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\bloc\auth_bloc.dart                             | Dart     |         33 |          0 |          8 |         41 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\bloc\auth_event.dart                            | Dart     |         15 |          0 |          6 |         21 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\bloc\auth_state.dart                            | Dart     |         12 |          0 |          7 |         19 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\data\datasource\authentication_datasource.dart  | Dart     |         57 |          0 |          6 |         63 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\data\model\user.dart                            | Dart     |         16 |          0 |          3 |         19 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Authenticaion\data\repository\auth_repository.dart            | Dart     |         34 |          0 |          7 |         41 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Download\view\download_screen.dart                            | Dart     |         75 |          0 |          3 |         78 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\bloc\home_bloc.dart                                      | Dart     |         57 |          1 |          4 |         62 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\bloc\home_event.dart                                     | Dart     |          6 |          0 |          4 |         10 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\bloc\home_state.dart                                     | Dart     |         26 |          0 |          5 |         31 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\local\advertisment_local_datasource.dart | Dart     |         56 |          0 |          6 |         62 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\local\movei_banner_local_datasource.dart | Dart     |         57 |          0 |          6 |         63 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\local\movei_local_datasource.dart        | Dart     |        268 |          6 |         25 |        299 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\remot\advertisment_datasource.dart       | Dart     |         23 |          0 |          4 |         27 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\remot\movie_banner_datasource.dart       | Dart     |         28 |          0 |          3 |         31 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\datasource\remot\movie_datasource.dart              | Dart     |        123 |          0 |         14 |        137 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\advertisment.dart                             | Dart     |         19 |          0 |          5 |         24 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\advertisment.g.dart                           | Dart     |         36 |          4 |          8 |         48 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\movie.dart                                    | Dart     |         43 |          0 |          5 |         48 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\movie.g.dart                                  | Dart     |         48 |          4 |          8 |         60 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\repository\advertisment_repository.dart             | Dart     |         30 |          0 |          5 |         35 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\repository\movie_banner_respository.dart            | Dart     |         30 |          0 |          5 |         35 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\repository\movie_repository.dart                    | Dart     |        126 |         12 |         22 |        160 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\view\home_screen.dart                                    | Dart     |        628 |          1 |         27 |        656 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\bloc\movie_detail_bloc.dart                       | Dart     |         44 |          2 |          5 |         51 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\bloc\movie_detail_event.dart                      | Dart     |         10 |          0 |          4 |         14 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\bloc\movie_detail_state.dart                      | Dart     |         17 |          0 |          5 |         22 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\datasource\movie_detail_datasource.dart      | Dart     |         40 |          0 |          6 |         46 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\datasource\movie_link_datasource.dart        | Dart     |         58 |          0 |          6 |         64 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\model\movie_detile.dart                      | Dart     |         32 |          0 |          3 |         35 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\model\movie_link.dart                        | Dart     |         15 |          0 |          3 |         18 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\repository\movie_detail_repository.dart      | Dart     |         31 |          0 |          6 |         37 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\data\repository\movie_link_repository.dart        | Dart     |         49 |          0 |          9 |         58 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieDetial\view\movie_detail_screen.dart                     | Dart     |        519 |          0 |         27 |        546 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieLink\bloc\movie_link_bloc.dart                           | Dart     |         26 |          0 |          2 |         28 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieLink\bloc\movie_link_event.dart                          | Dart     |          7 |          0 |          4 |         11 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieLink\bloc\moviie_link_state.dart                         | Dart     |          8 |          0 |          5 |         13 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieLink\view\movie_link_screen.dart                         | Dart     |        196 |          0 |          7 |        203 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\get_item_card_from_category_home.dart          | Dart     |        102 |          0 |         17 |        119 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_bloc.dart                           | Dart     |         24 |          0 |          3 |         27 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_event.dart                          | Dart     |         11 |          0 |          7 |         18 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_state.dart                          | Dart     |          8 |          0 |          5 |         13 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\datasource\movie_list_datasource.dart          | Dart     |        120 |          0 |         15 |        135 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\model\item_card_movie.dart                     | Dart     |          7 |          0 |          2 |          9 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\repository\movie_list_repository.dart          | Dart     |         96 |          1 |         15 |        112 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\view\movie_list_screen.dart                         | Dart     |        217 |          0 |         10 |        227 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\TestSc\test_screen.dart                                       | Dart     |         69 |          5 |          5 |         79 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Welcom\view\welcome_screen.dart                               | Dart     |         58 |          0 |          3 |         61 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\bloc\category_bloc.dart                              | Dart     |         21 |          0 |          6 |         27 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\bloc\category_event.dart                             | Dart     |          2 |          0 |          2 |          4 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\bloc\category_state.dart                             | Dart     |         11 |          0 |          5 |         16 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\data\datasource\category_datasource.dart             | Dart     |         69 |          0 |          5 |         74 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\data\model\category.dart                             | Dart     |         22 |          0 |          5 |         27 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\data\repository\category_repository.dart             | Dart     |         40 |          0 |          5 |         45 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\view\category_screen.dart                            | Dart     |        252 |          3 |         14 |        269 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\constants\custom_colors.dart                                           | Dart     |         10 |          0 |          2 |         12 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\constants\string_constants.dart                                        | Dart     |         13 |          0 |          3 |         16 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\gen\assets.gen.dart                                                    | Dart     |        149 |         34 |         39 |        222 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\gen\fonts.gen.dart                                                     | Dart     |          5 |          9 |          5 |         19 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\main.dart                                                              | Dart     |        109 |          0 |          5 |        114 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\enum\category_enum.dart                                           | Dart     |         19 |          0 |          2 |         21 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\enum\link_enum.type.dart                                          | Dart     |          5 |          0 |          1 |          6 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\category_type_enum_extention.dart               | Dart     |         26 |          0 |         10 |         36 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\context_extention.dart                          | Dart     |          6 |          0 |          2 |          8 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\dio_exception.dart                              | Dart     |          9 |          0 |          3 |         12 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\movie_extention.dart                            | Dart     |         14 |          0 |          3 |         17 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\string_extention.dart                           | Dart     |          5 |          0 |          1 |          6 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\network_util\api_exception.dart                                   | Dart     |         45 |          0 |          2 |         47 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\network_util\auth_manager.dart                                    | Dart     |         25 |          0 |          8 |         33 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\network_util\dio_provider.dart                                    | Dart     |          7 |          0 |          2 |          9 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\network_util\intentnet_checker.dart                               | Dart     |         12 |          0 |          3 |         15 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\advertisment_banner.dart                                        | Dart     |         58 |          0 |          4 |         62 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\banner.dart                                                     | Dart     |         50 |          0 |          4 |         54 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\button_main.dart                                                | Dart     |         35 |          0 |          4 |         39 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\cached_network_image.dart                                       | Dart     |         23 |          0 |          4 |         27 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\shimmer_loading.dart                                            | Dart     |        404 |          0 |         27 |        431 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\show_eror_widget.dart                                           | Dart     |         17 |          1 |          4 |         22 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\widget\toast.dart                                                      | Dart     |         11 |          0 |          2 |         13 |
+| Total                                                                                                                         |          |      5,711 |         84 |        608 |      6,403 |
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

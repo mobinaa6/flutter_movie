@@ -1,0 +1,51 @@
+Date : 2024-03-14 23:08:52
+Directory : c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib
+Total : 10 files,  111 codes, 1 comments, 20 blanks, all 132 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         10 |        111 |          1 |         20 |        132 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |         10 |        111 |          1 |         20 |        132 |
+| Features                                                                                                             |          9 |         97 |          1 |         17 |        115 |
+| Features\Home                                                                                                        |          2 |          1 |          0 |          0 |          1 |
+| Features\Home\data                                                                                                   |          2 |          1 |          0 |          0 |          1 |
+| Features\Home\data\model                                                                                             |          2 |          1 |          0 |          0 |          1 |
+| Features\MovieList                                                                                                   |          5 |         84 |          0 |         15 |         99 |
+| Features\MovieList\bloc                                                                                              |          1 |         -2 |          0 |          0 |         -2 |
+| Features\MovieList\data                                                                                              |          3 |         78 |          0 |         15 |         93 |
+| Features\MovieList\data\datasource                                                                                   |          1 |         56 |          0 |          7 |         63 |
+| Features\MovieList\data\model                                                                                        |          1 |          7 |          0 |          3 |         10 |
+| Features\MovieList\data\repository                                                                                   |          1 |         15 |          0 |          5 |         20 |
+| Features\MovieList\view                                                                                              |          1 |          8 |          0 |          0 |          8 |
+| Features\category                                                                                                    |          2 |         12 |          1 |          2 |         15 |
+| Features\category\data                                                                                               |          1 |          8 |          0 |          1 |          9 |
+| Features\category\data\model                                                                                         |          1 |          8 |          0 |          1 |          9 |
+| Features\category\view                                                                                               |          1 |          4 |          1 |          1 |          6 |
+| util                                                                                                                 |          1 |         14 |          0 |          3 |         17 |
+| util\extetion_function                                                                                               |          1 |         14 |          0 |          3 |         17 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                             | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\movie.dart                           | Dart     |         -2 |          0 |          0 |         -2 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\Home\data\model\movie.g.dart                         | Dart     |          3 |          0 |          0 |          3 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_bloc.dart                  | Dart     |         -2 |          0 |          0 |         -2 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\datasource\movie_list_datasource.dart | Dart     |         56 |          0 |          7 |         63 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\model\item_card_movie.dart            | Dart     |          7 |          0 |          3 |         10 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\repository\movie_list_repository.dart | Dart     |         15 |          0 |          5 |         20 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\view\movie_list_screen.dart                | Dart     |          8 |          0 |          0 |          8 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\data\model\category.dart                    | Dart     |          8 |          0 |          1 |          9 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\category\view\category_screen.dart                   | Dart     |          4 |          1 |          1 |          6 |
+| c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\util\extetion_function\movie_extention.dart                   | Dart     |         14 |          0 |          3 |         17 |
+| Total                                                                                                                |          |        111 |          1 |         20 |        132 |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,9 @@
+"filename", "language", "Dart", "comment", "blank", "total"
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_bloc.dart", "Dart", 75, 9, 3, 87
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_event.dart", "Dart", 11, 0, 7, 18
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\bloc\movie_list_state.dart", "Dart", 8, 0, 5, 13
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\datasource\movie_list_datasource.dart", "Dart", 120, 0, 15, 135
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\model\item_card_movie.dart", "Dart", 7, 0, 3, 10
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\data\repository\movie_list_repository.dart", "Dart", 86, 0, 14, 100
+"c:\Users\mobin\AndroidStudioProjects\flutter_movie\lib\Features\MovieList\view\movie_list_screen.dart", "Dart", 217, 0, 10, 227
+"Total", "-", 524, 9, 57, 590
